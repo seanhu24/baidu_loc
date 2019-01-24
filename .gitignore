@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+bankinfo.csv
+config.py
+Pipfile.lock
+地址信息.csv
+
+
+.vscode
